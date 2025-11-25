@@ -1,4 +1,4 @@
-# PATRI-TECH — Etapas 0 e 1 (Do Problema à Modelagem e Escolha de Framework)
+# PATRI-TECH — Etapas 0 e 1 (Do Problema à Modelagem e Escolha de Framework) (Django ou FastAPI)
 
 ## 📌 Objetivo
 
